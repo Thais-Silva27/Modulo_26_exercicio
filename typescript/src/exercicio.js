@@ -16,10 +16,10 @@ function soma(...idades: number[]): void {
     console.log(`A soma das idades é: ${total}`);
 }
 
-// Testando as funções corrigidas
-console.log(Oi(nome, digaOla)); // Saída: "Olá, Ian!"
-console.log(calcularIdade(anoDeNascimento, anoAtual)); // Saída: 38
-soma(30, 25, 42); // Saída: "A soma das idades é: 97"
+
+console.log(Oi(nome, digaOla));  
+console.log(calcularIdade(anoDeNascimento, anoAtual)); 
+soma(2024-1986); 
 
 
  
